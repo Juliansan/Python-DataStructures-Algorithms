@@ -13,11 +13,11 @@ Four operations should be found to operate at least in an array.
 ## Important aspects of an Array
 
 <aside>
-⚠️ When creating an array, the **size must be specified**
+When creating an array, the **size must be specified
 
 </aside>
 
 <aside>
-🔒 All items on an Array **must be of the same type**
+All items on an Array **must be of the same type
 
 </aside>
